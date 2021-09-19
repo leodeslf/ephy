@@ -7,6 +7,7 @@
     "preview": "svelte-kit preview --port 5012 --open"
   },
   "devDependencies": {
+    "@sveltejs/adapter-vercel": "^1.0.0-next.0",
     "@sveltejs/kit": "next",
     "node-sass": "^6.0.1",
     "svelte": "^3.34.0",
