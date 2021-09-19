@@ -15,5 +15,7 @@
   "type": "module",
   "dependencies": {
     "@leodeslf/vec.js": "^1.6.6"
-  }
+  },
+  "author": "Leonardo de S.L.F",
+  "license": "MIT"
 }
